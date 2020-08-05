@@ -7,4 +7,5 @@
 
 ## c/c++/Linux 
 - [1.linux命令](./docs/c++/1.linux命令.md)
-- [2.vim](./docs/c++/2vim.md)
+- [2.vim](./docs/c++/2.vim.md)
+- [3.gcc编译](./docs/c++/3.gcc编译.md)
